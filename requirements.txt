@@ -1,0 +1,7 @@
+streamlit>=1.20.0
+numpy
+opencv-python
+PyWavelets
+Pillow
+scipy
+matplotlib
