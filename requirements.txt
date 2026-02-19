@@ -1,7 +1,4 @@
-streamlit>=1.20.0
+streamlit
 numpy
-opencv-python
-PyWavelets
 Pillow
-scipy
-matplotlib
+opencv-python-headless
